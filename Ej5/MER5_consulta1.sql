@@ -5,4 +5,4 @@ WHERE Client.DNI = Client_vehicle.client_DNI and
 	Vehicle.num_serie =Client_vehicle.Vehicle_ID1 AND
 	Tipus_vehicle_ID = Vehicle.Tipus_vehicle_ID AND
 	Client_vehicle.Vehicle_ID1= Cita.Vehicle_ID AND
-    Cita.data>"2022-12-31";
+    Cita.data>"2024-1-31";
